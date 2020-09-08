@@ -1,4 +1,4 @@
 # holbertonschool-zero_day
 
-## SAMUEL CORREA
+###### Principal director
 
